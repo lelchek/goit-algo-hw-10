@@ -10,22 +10,23 @@ Compute the value of a definite integral using the Monte Carlo method and verify
 
 The following function was used:
 
-\[
+$$
 f(x) = x^2 + 10
-\]
+$$
 
 The integral was evaluated on the interval:
-\[
+
+$$
 [0, 2]
-\]
+$$
 
 ---
 
 ## Reference Result (SciPy `quad`)
 
-\[
+$$
 \int_{0}^{2} (x^2 + 10)\,dx = 22.666666666666667
-\]
+$$
 
 ---
 
